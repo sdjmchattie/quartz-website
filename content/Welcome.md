@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"index","created":"2025-08-17T20:11:22.113+01:00","modified":"2025-08-18T21:39:10.335+01:00","cssclasses":""}
+{"publish":true,"aliases":"index","created":"2025-08-17T20:11:22.000+01:00","modified":"2025-08-18T22:49:38.064+01:00","cssclasses":""}
 ---
 
 This is the root of my Quartz site.
@@ -12,3 +12,5 @@ And here is some code:
 def test():
     print("Hello world!")
 ```
+
+#sudoku-solver
