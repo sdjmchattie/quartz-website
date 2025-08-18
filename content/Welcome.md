@@ -1,8 +1,8 @@
 ---
-{"publish":true,"aliases":"index","created":"2025-08-17T20:11:22.000+01:00","modified":"2025-08-18T21:21:05.035+01:00","cssclasses":""}
+{"publish":true,"aliases":"index","created":"2025-08-17T20:11:22.000+01:00","modified":"2025-08-18T21:23:53.844+01:00","cssclasses":""}
 ---
 
-This is the root of my Quartz site.  Can I update it from my phone?
+This is the root of my Quartz site.  Can I update it from my phone? Hello Annette.
 
 Make a note of something, [[create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
 
