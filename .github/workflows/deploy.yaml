@@ -46,9 +46,6 @@ jobs:
       - name: Install Quartz Node.js dependencies
         run: npm ci
 
-      - name: Copy custom Quartz config
-        run: cp -Rf ./contents/.quartz-overrides/* ./quartz/
-
       - name: Build site contents
         run: "npx quartz build"
 
