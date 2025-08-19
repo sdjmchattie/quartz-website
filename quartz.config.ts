@@ -18,7 +18,7 @@ const config: QuartzConfig = {
     locale: "en-GB",
     baseUrl: "stuart.mchattie.net/quartz-website",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "modified",
+    defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
