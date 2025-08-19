@@ -85,6 +85,8 @@ export default (() => {
         <link rel="icon" href={iconPath} />
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
+        <meta name="fediverse:creator" content="@sdjmchattie@hachyderm.io" />
+        <link rel="me" href="https://hachyderm.io/@sdjmchattie" />
 
         {css.map((resource) => CSSResourceToStyleElement(resource, true))}
         {js
